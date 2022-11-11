@@ -1,0 +1,16 @@
+name: local_hero_with_callback
+description: A fork of the existing local_hero_with_callback_with_callback package - A widget which implicitly launches a hero animation when its position changed within the same route.
+version: 0.0.1
+homepage: https://github.com/martipello/local_hero_with_callback_with_callback
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  vector_math: ^2.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
